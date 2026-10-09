@@ -2,6 +2,6 @@
 
  int main()
 {
-printf("Hello, KEC! C is working .\n");
+printf("Hello, KEC! C is working bhdnj.\n");
 // hello
 }
